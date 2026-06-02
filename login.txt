@@ -8,3 +8,5 @@ botón de enviar
 
 Agregamos la lógica para iniciar sesión
 Agregamos recuperar contraseña
+Agregando animaciones
+animaciones implementadas
